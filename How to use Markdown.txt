@@ -13,4 +13,9 @@ Styling text:-
 
 BOLD--> ** ** or __ __ or Ctrl+B
 
+Italics-> * *
+
+Strike through-> ~~ ~~ (create a line that passes through the text)
+
+**This text is _extremely_ important** for bold and nested Italics
 

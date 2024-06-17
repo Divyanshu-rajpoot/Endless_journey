@@ -33,3 +33,17 @@ Avg -> O(n2)
 -----
 
 ## Bubble Sort
+
+### java code
+
+```java
+    
+```
+
+#### time complexity
+
+worst -> O(n2)
+
+best -> O(n2)
+
+Avg -> O(n2)
